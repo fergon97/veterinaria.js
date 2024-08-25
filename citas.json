@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Marley",
+    "edad": "1 año",
+    "tipo": "Perro",
+    "color": "Beige",
+    "enfermedad": "Ser Bonito"
+  },
+  {
+    "nombre": "Lu",
+    "edad": "12 años",
+    "tipo": "Gato",
+    "color": "Calico",
+    "enfermedad": "Pancreatitis"
+  }
+]
